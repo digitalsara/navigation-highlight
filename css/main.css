@@ -13,7 +13,7 @@ body {
 
 header {
   background-color: #ffe500;
-  padding: 20px;
+  padding: 10px;
 }
 
 h1 {
@@ -29,13 +29,31 @@ h2 {
   font-size: 1.875rem;
 }
 
+nav {
+  list-style: none;
+  text-align:center;
+}
+
+nav li {
+  display: inline;
+}
+
 a {
   background-color: #b2a212;
   border-radius: 4px;
   color: #fff;
+  display: inline-block;
   font-size: 1.125rem;
   padding: 10px;
   text-decoration: none;
+}
+
+a:hover {
+  background-color: #cc1465;
+}
+
+a:active {
+  background-color: #cc1465;
 }
 
 footer {
