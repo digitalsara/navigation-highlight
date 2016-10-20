@@ -19,3 +19,17 @@ h1 {
   font-family: "Sigmar One", cursive;
   text-align: center;
 }
+
+h2 {
+  color: #cc1465;
+  font-family: "Sigmar One", cursive;
+}
+
+a {
+  font-family: Georgia, serif;
+  text-decoration: none;
+}
+
+p {
+  font-family: Georgia, serif;
+}
