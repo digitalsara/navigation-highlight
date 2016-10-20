@@ -13,6 +13,7 @@ body {
 
 header {
   background-color: #ffe500;
+  padding: 20px;
 }
 
 h1 {
@@ -29,8 +30,11 @@ h2 {
 }
 
 a {
+  background-color: #b2a212;
+  border-radius: 4px;
   color: #fff;
   font-size: 1.125rem;
+  padding: 10px;
   text-decoration: none;
 }
 
@@ -38,4 +42,5 @@ footer {
   background-color: #ffe500;
   text-align: center;
   font-size: .75rem;
+  padding: 10px;
 }
