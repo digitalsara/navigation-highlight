@@ -11,6 +11,10 @@ body {
   font-family: Georgia, serif;
 }
 
+main {
+  padding: .3em;
+}
+
 header {
   background-color: #ffe500;
   padding: 10px;
