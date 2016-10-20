@@ -51,12 +51,17 @@ nav li {
   display: inline;
 }
 
+ul {
+  padding: 0;
+  margin: 0 -7px 0 -7px;
+}
+
 a {
   background-color: #b2a212;
   border-radius: 4px;
   color: #fff;
   display: inline-block;
-  font-size: 1rem;
+  font-size: 1.125rem;
   margin: 0 0 .2em;
   padding: .2em .5em .3em;
   text-decoration: none;
