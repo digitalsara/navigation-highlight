@@ -8,6 +8,7 @@ html {
 
 body {
   margin: 0;
+  font-family: Georgia, serif;
 }
 
 header {
@@ -26,10 +27,10 @@ h2 {
 }
 
 a {
-  font-family: Georgia, serif;
   text-decoration: none;
 }
 
-p {
-  font-family: Georgia, serif;
+footer {
+  background-color: #ffe500;
+  text-align: center;
 }
