@@ -5,3 +5,17 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #ffe500;
+}
+
+h1 {
+  color: #cc1465;
+  font-family: "Sigmar One", cursive;
+  text-align: center;
+}
