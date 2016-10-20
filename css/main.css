@@ -52,7 +52,11 @@ a:hover {
   background-color: #cc1465;
 }
 
-a:active {
+.current {
+  background-color: #cc1465;
+}
+
+.current:active {
   background-color: #cc1465;
 }
 
